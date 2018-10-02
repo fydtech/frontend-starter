@@ -1,0 +1,18 @@
+/**
+ * Custom fonts go here..
+ * Example below.
+ */
+
+/*@font-face {
+  font-family: 'Montserrat';
+  font-display: swap;
+  font-style: normal;
+  font-weight: 300;
+  src: url('~@/assets/fonts/montserrat-v12-latin-300.eot');
+  src: local('Montserrat Light'), local('Montserrat-Light'),
+       url('~@/assets/fonts/montserrat-v12-latin-300.eot?#iefix') format('embedded-opentype'),
+       url('~@/assets/fonts/montserrat-v12-latin-300.woff2') format('woff2'),
+       url('~@/assets/fonts/montserrat-v12-latin-300.woff') format('woff'),
+       url('~@/assets/fonts/montserrat-v12-latin-300.ttf') format('truetype'),
+       url('~@/assets/fonts/montserrat-v12-latin-300.svg#Montserrat') format('svg');
+}*/
